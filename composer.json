@@ -1,0 +1,17 @@
+{
+    "name": "chrisrenga/alfred-tailwindcss-docs",
+    "description": "An ultra-fast Tailwindcss docs search workflow for Alfred 3.",
+    "version": "0.2.2",
+    "keywords": ["alfred", "alfred-workflow", "tailwindcss", "tailwind", "algolia"],
+    "homepage": "https://chrisrenga.com",
+    "support": {
+        "source": "https://github.com/chrisrenga/alfred-tailwindcss-docs",
+        "issues": "https://github.com/chrisrenga/alfred-tailwindcss-docs/issues"
+    },
+    "license": "MIT",
+    "require": {
+        "joetannenbaum/alfred-workflow": "^0.1.0",
+        "algolia/algoliasearch-client-php": "^1.27",
+        "erusev/parsedown": "^1.7"
+    }
+}
